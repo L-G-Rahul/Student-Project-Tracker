@@ -1,4 +1,4 @@
-🎓 Student Project Tracker 🚀
+🎓 ### Student Project Tracker 🚀
 
 Welcome to the Student Project Tracker! This is a sleek, lightweight web application built with Python Flask and SQLite to help students manage their academic projects efficiently. 📝✨
 
